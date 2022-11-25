@@ -1,0 +1,53 @@
+commit b18952dc6f52973a559354d5041a54e5e68998ef
+Author: Raju Das <rajud878@gmail.com>
+Date:   Fri Nov 25 22:51:08 2022 +0530
+
+    Added 3 loops statements
+
+commit bc86062d7c0fee9e6add396941d9ec8d8271da2a
+Author: Raju Das <rajud878@gmail.com>
+Date:   Fri Nov 25 22:31:25 2022 +0530
+
+    Changed the string function which will throw a exception
+
+commit 8202b9f8e3710a309cdc9ec9bd1ca2f2c2ecbd6b
+Author: Raju Das <rajud878@gmail.com>
+Date:   Fri Nov 25 22:19:12 2022 +0530
+
+    Added a addition operation along with Trishna's name length feature
+
+commit 0fcb19ebf02fa5aaffecd6f64d198a34d1f34c85
+Author: Raju Das <rajud878@gmail.com>
+Date:   Fri Nov 25 22:10:23 2022 +0530
+
+    Added a Jerry folder
+
+commit 250ee92cd31983be17e42b17b41fd6f41eb46fa0
+Author: Raju Das <rajud878@gmail.com>
+Date:   Fri Nov 25 01:55:21 2022 +0530
+
+    using the merge feature
+
+commit a4fcfb99dd6fb605737d69c1a7cb2e1604bbafd9
+Author: Raju Das <rajud878@gmail.com>
+Date:   Fri Nov 25 01:01:05 2022 +0530
+
+    Removed 1 row from end
+
+commit 987a6ea51100c18441305311506b0fa5e9c82994
+Author: Raju Das <rajud878@gmail.com>
+Date:   Fri Nov 25 00:34:51 2022 +0530
+
+    My Third Commit
+
+commit b60adf46e4871fac1138167a8f8809c123af89e3
+Author: Raju Das <rajud878@gmail.com>
+Date:   Thu Nov 24 22:56:32 2022 +0530
+
+    My Second Commit
+
+commit 1fbb8b6928df451c02823ba7c21798bb0c4f1604
+Author: Raju Das <rajud878@gmail.com>
+Date:   Thu Nov 24 22:53:32 2022 +0530
+
+    My First Commit
